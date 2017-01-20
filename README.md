@@ -1,10 +1,10 @@
-# _Template_
+# _Vue Practice_
 
-#### By _Ewa Manek_
+#### By _Kevin Johnston_
 
 ## Description
 
-_A template for javascript with node.js in the backend, backend dependencies managed by gulp, frontend by bower, and css by sass_
+_Practice for Vue.js, using a template for javascript with node.js in the backend, backend dependencies managed by gulp, frontend by bower, and css by sass_
 
 ## Setup/Installation Requirements
 
@@ -19,10 +19,10 @@ _A template for javascript with node.js in the backend, backend dependencies man
 
 ## GitHub link
 
-https://github.com/ewajm/gulp-template
+https://github.com/kjohnston119/vue-practice
 
 ## Licensing
 
 * MIT
 
-Copyright (c) 2016 **_Ewa Manek_**
+Copyright (c) 2016 **_Kevin Johnston_**

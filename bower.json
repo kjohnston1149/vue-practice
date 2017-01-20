@@ -1,9 +1,9 @@
 {
-  "name": "gulp-template",
+  "name": "vue-practice",
   "description": "",
   "main": "index.js",
   "authors": [
-    "Ewa Manek <manekej@gmail.com>"
+    "Kevin Johnston <kjohnston1149@gmail.com>"
   ],
   "license": "ISC",
   "homepage": "",
